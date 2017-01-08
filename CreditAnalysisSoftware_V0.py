@@ -1,8 +1,10 @@
 
 
-# UNIX password is "Buffalo"
+
 # HOMEWORK, use TKINTER within Application
 # Look into Djanjo web framework
+#PEP 8 - Style Guidelines for Code
+
 
 #FUNCTIONS HERE
 def calc(yr,
